@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<extension type="template" client="site">
+	<name>Rezepte</name>
+	<version>1.0</version>
+	<creationDate>2024-05-31</creationDate>
+	<author>Tim Schürmann</author>
+	<authorEmail>info@tim-schuermann.de</authorEmail>
+	<copyright>(C) 2024 Tim Schürmann</copyright>
+	<description>Dieses Rezepte-Template eignet sich ideal für eine Rezeptsammlung.</description>
+
+</extension>
+
