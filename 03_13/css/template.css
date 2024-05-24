@@ -1,0 +1,32 @@
+.komponenten {
+  float: left;
+  width: 66%;
+}
+
+.seitenleiste {
+  float: right;
+  width: 25%;
+}
+
+.hauptmenue .nav {
+  list-style: none;
+  background-color: #849569;
+  width: 100%;
+  float: left;
+  padding: 0;
+}
+
+.hauptmenue .nav li {
+  float: left;
+}
+
+.hauptmenue .nav li a {
+  text-decoration: none;
+  color: #fff;
+  padding: 0.5em;
+  display: block;
+}
+
+.hauptmenue .nav li a:hover {
+  background: #546539;
+}
