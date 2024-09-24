@@ -36,5 +36,6 @@ Dieses Problem lösen Sie wie folgt:
 _Diplom-Informatiker und IT-Journalist_
 
 Sehen Sie sich andere Kurse des Autors auf [LinkedIn Learning](https://www.linkedin.com/learning/instructors/tim-schurmann) an.
+
 [lil-course-url]: https://www.linkedin.com/learning/joomla-fur-fortgeschrittene-templates-entwickeln
 [lil-thumbnail-url]: https://media.licdn.com/dms/image/v2/D4E0DAQHFLDwvGe3yZw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1726480111868?e=2147483647&v=beta&t=NVKlUJzzWQhhGSa8ZRY4tC_QSsjF3s3vA0b0rtQGKmI
