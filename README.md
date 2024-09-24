@@ -4,16 +4,14 @@ Dies ist das Repository für den **LinkedIn Learning** Kurs `Joomla! für Fortge
 
 ![COURSENAME][lil-thumbnail-url] 
 
-[COURSEDESCRIPTION]
+Mit Design-Vorlagen, sog. Templates, verpassen Sie Ihrem Internetauftritt eine ganz eigene Optik: Blitzschnell entstehen zum Beispiel eine Suchfunktion, Kontaktformulare oder spezielle Unterseiten, die nur ausgewählte Besucherinnen und Besucher zu Gesicht bekommen. Wenn Sie für Ihre Joomla!-basierte Website ein eigenes Template erstellen wollen, sind Sie bei diesem Video-Training richtig. Tim Schürmann führt Sie Schritt für Schritt in den Aufbau des eigenen Templates ein – von den Vorüberlegungen bis zum fertigen Template. 
+Wenn Sie eigene Templates erstellen möchten, benötigen Sie umfassendes Wissen über HTML und CSS. Die Templates selbst entstehen dann in einem beliebigen Texteditor. Hilfreich sind zudem die Entwicklerwerkzeuge Ihres Browsers.
 
 ## Anleitung
 
 Dieses Repository hat Branches für jedes Video im Kurs. Verwenden Sie das Ausklappmenü "Branch: ..." in GitHub um zwischen den unterschiedlichen Branches hin und her zu wechseln bzw. um bei einem spezifischen Status einzusteigen. Oder Sie fügen `/tree/BRANCH_NAME` der URL hinzu um direkt in den gewünschten Branch zu wechseln.
 
-## Branches
-
 Die Git Branches sind passend zu den Videos im Kurs strukturiert. Die Namenskonvention lautet `Kapitel#_Video#`. Der Branch `02_03` beinhaltet zum Beispiel die Übungen für das dritte Video im zweiten Kapitel. 
-Einige Branches haben einen Anfangsstatus (`b`) für "beginning" und einen Endstatus (`e`). Der Branch mit dem `e` am Ende beinhaltet in diesem Fall stets den Code der am Ende des Videos zu sehen ist. Der `master` Branch beinhaltet den initialen Quellcode und wird nicht für die Übungen innerhalb des Kurses genutzt.
 
 Wenn Sie von einem Branch nach Änderungen zum nächsten Branch wechseln, erhalten Sie möglicherweise die folgende Meldung:
 
@@ -29,10 +27,7 @@ Dieses Problem lösen Sie wie folgt:
 
 ## Installation
 
-1. Um diese Übungsdateien nutzen zu können, müssen Sie folgendes installiert haben:
-   - [list of requirements for course]
-2. Klonen Sie das Repository in Ihre lokale Maschine unter Verwendung von terminal (Mac), CMD (Windows) oder ein anderes Werkzeug mit grafischer Bedienoberfläche wie SourceTree.
-3. [Course-specific instructions]
+1. Klonen Sie das Repository in Ihre lokale Maschine unter Verwendung von terminal (Mac), CMD (Windows) oder ein anderes Werkzeug mit grafischer Bedienoberfläche wie SourceTree.
 
 ### Autor
 
@@ -41,3 +36,6 @@ Dieses Problem lösen Sie wie folgt:
 _Diplom-Informatiker und IT-Journalist_
 
 Sehen Sie sich andere Kurse des Autors auf [LinkedIn Learning](https://www.linkedin.com/learning/instructors/tim-schurmann) an.
+
+[lil-course-url]: https://www.linkedin.com/learning/joomla-fur-fortgeschrittene-templates-entwickeln
+[lil-thumbnail-url]: https://media.licdn.com/dms/image/v2/D4E0DAQHFLDwvGe3yZw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1726480111868?e=2147483647&v=beta&t=NVKlUJzzWQhhGSa8ZRY4tC_QSsjF3s3vA0b0rtQGKmI
